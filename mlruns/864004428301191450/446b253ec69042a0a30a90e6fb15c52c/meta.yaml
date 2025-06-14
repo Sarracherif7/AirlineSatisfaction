@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kayladesilva/Documents/AirlineSatisfactionProject_3/mlruns/864004428301191450/446b253ec69042a0a30a90e6fb15c52c/artifacts
+end_time: 1749900991175
+entry_point_name: ''
+experiment_id: '864004428301191450'
+lifecycle_stage: active
+run_id: 446b253ec69042a0a30a90e6fb15c52c
+run_name: tasteful-snake-942
+run_uuid: 446b253ec69042a0a30a90e6fb15c52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900977480
+status: 3
+tags: []
+user_id: kayladesilva

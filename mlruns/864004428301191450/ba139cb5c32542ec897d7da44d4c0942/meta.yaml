@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kayladesilva/Documents/AirlineSatisfactionProject_3/mlruns/864004428301191450/ba139cb5c32542ec897d7da44d4c0942/artifacts
+end_time: 1749898521164
+entry_point_name: ''
+experiment_id: '864004428301191450'
+lifecycle_stage: active
+run_id: ba139cb5c32542ec897d7da44d4c0942
+run_name: bold-ray-432
+run_uuid: ba139cb5c32542ec897d7da44d4c0942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749898507357
+status: 3
+tags: []
+user_id: kayladesilva

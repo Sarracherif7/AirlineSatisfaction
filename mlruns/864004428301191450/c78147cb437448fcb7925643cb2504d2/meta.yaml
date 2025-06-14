@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kayladesilva/Documents/AirlineSatisfactionProject_3/mlruns/864004428301191450/c78147cb437448fcb7925643cb2504d2/artifacts
+end_time: 1749901019551
+entry_point_name: ''
+experiment_id: '864004428301191450'
+lifecycle_stage: active
+run_id: c78147cb437448fcb7925643cb2504d2
+run_name: thundering-moth-938
+run_uuid: c78147cb437448fcb7925643cb2504d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749901005938
+status: 3
+tags: []
+user_id: kayladesilva
